@@ -1,1 +1,1 @@
-# progFunc
+# FunProg
